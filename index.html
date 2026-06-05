@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SIMC Recall</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="study-column" aria-live="polite">
+        <div class="brand-block">
+          <p class="eyebrow">SIMC Study Tool</p>
+          <h1>Recall parables with proof, meaning, and context.</h1>
+        </div>
+
+        <section class="panel lesson-panel">
+          <h2>Lesson</h2>
+          <label class="select-label" for="lessonSelect">Choose lesson</label>
+          <select id="lessonSelect"></select>
+          <div class="lesson-meta" id="lessonMeta"></div>
+
+          <div class="field-group">
+            <label class="select-label" for="modeSelect">Practice mode</label>
+            <select id="modeSelect"></select>
+          </div>
+        </section>
+
+        <article class="flashcard" id="flashcard">
+          <div class="card-topline">
+            <span id="cardType">Meaning Recall</span>
+            <span class="counter" id="counter">1 / 1</span>
+          </div>
+          <div class="tag-row" id="tagRow"></div>
+          <p class="prompt" id="promptText">Loading card...</p>
+          <div class="hint-text hidden" id="hintText"></div>
+          <div class="action-row">
+            <button class="primary-button" id="revealButton" type="button">Reveal Answer</button>
+            <button class="secondary-button" id="hintButton" type="button">Hint</button>
+          </div>
+        </article>
+
+        <article class="answer-card hidden" id="answerSurface">
+          <div class="answer-header">
+            <h3>Expected Recall</h3>
+            <span id="difficultyLabel"></span>
+          </div>
+          <div id="answerText"></div>
+          <div class="rating-row" aria-label="Rate this card">
+            <button data-rating="again" type="button">Again</button>
+            <button data-rating="hard" type="button">Hard</button>
+            <button data-rating="good" type="button">Good</button>
+            <button data-rating="easy" type="button">Easy</button>
+          </div>
+        </article>
+
+        <section class="panel stats-panel">
+          <h2>Progress</h2>
+          <div class="stat-grid">
+            <div>
+              <span id="seenCount">0</span>
+              <small>seen</small>
+            </div>
+            <div>
+              <span id="masteredCount">0</span>
+              <small>mastered</small>
+            </div>
+            <div>
+              <span id="againCount">0</span>
+              <small>review</small>
+            </div>
+          </div>
+          <button class="ghost-button" id="resetButton" type="button">Reset session</button>
+        </section>
+      </section>
+    </main>
+
+    <script src="data.js"></script>
+    <script src="data-extra.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
