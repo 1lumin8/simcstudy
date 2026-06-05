@@ -7969,6 +7969,1237 @@
     ]
   });
 
+  const sourceLanguageOverrides = {
+    "intermediate-lesson-4-1": [
+      {
+        id: "i4-1-src-main-ref",
+        type: "Verse-to-Concept",
+        difficulty: "Core",
+        tags: ["Isa 1:1-2:4", "Judah", "Jerusalem"],
+        prompt: "What is the main reference and stage?",
+        answer: [
+          "Main Ref: Isaiah 1:1 - 2:4 Summary and conclusion of Isaiah.",
+          "Prophecy of Bible does not happen everywhere, but in one place of Judah and Jerusalem.",
+          "This Judah and Jerusalem is not JJ that existed historically; it will appear during fulfillment time.",
+          "Judah and Jerusalem = 7GL - stage that this Isaiah was referring to in our time."
+        ],
+        hint: "Isaiah 1, Judah and Jerusalem."
+      },
+      {
+        id: "i4-1-src-when-god-chooses",
+        type: "Timeline Recall",
+        difficulty: "Core",
+        tags: ["Chosen Pastor", "Betrayal", "Destruction"],
+        prompt: "When does God choose a prophet or promised pastor?",
+        answer: [
+          "Previous people 7GL already betrayed and under destruction when Jesus chose John.",
+          "God chose Noah when chosen people of Adam's world became one with daughters of men.",
+          "God chose Abraham when Noah's world worshiped other gods.",
+          "When betrayal and destruction is happening, God chooses the person."
+        ],
+        hint: "After betrayal and during destruction."
+      },
+      {
+        id: "i4-1-src-rebellion",
+        type: "Key Info Drill",
+        difficulty: "Core",
+        tags: ["Children", "7GL", "Rebellion"],
+        prompt: "How does Isaiah 1 describe the children?",
+        answer: [
+          "Children = Judah and JR = 7GL.",
+          "Jesus educated 7GL directly, brought them up and educated them, but they rebelled against God.",
+          "From heads (pastors/heaven) to toe (congregation/earth), it is full of wounds and sores."
+        ],
+        hint: "Children, heads, toe."
+      },
+      {
+        id: "i4-1-src-field-foreigners",
+        type: "Comparison",
+        difficulty: "Core",
+        tags: ["Field", "Foreigners", "7GL"],
+        prompt: "What is the field, and who are the foreigners?",
+        answer: [
+          "Field = church.",
+          "7GL had 80 branch churches, but they are being stripped by foreigners.",
+          "F.C. Judah and JR = JTB Tabernacle; Foreigners = Pharisees and teachers of law.",
+          "S.C. Judah and JR = 7GL; Foreigners = 7+10."
+        ],
+        hint: "Field and foreigners."
+      },
+      {
+        id: "i4-1-src-remnant",
+        type: "Key Info Drill",
+        difficulty: "Core",
+        tags: ["Survivors", "Remnant Seed", "New Kingdom"],
+        prompt: "What are the survivors?",
+        answer: [
+          "Survivors = remnant seed.",
+          "Few people who repented about their sins in Judah and JR.",
+          "Through these small survivors, new kingdom will be established.",
+          "Examples: Noah and 3 sons, Daniel and 3 friends, Jesus and 3 disciples, from 7GL, 1 qt of wheat, 3 qt of barley."
+        ],
+        hint: "Remnant seed."
+      },
+      {
+        id: "i4-1-src-worship",
+        type: "Key Info Drill",
+        difficulty: "Core",
+        tags: ["Sacrifice", "Prayer", "Sodom"],
+        prompt: "How does the lesson explain rulers, sacrifices, money, and prayer?",
+        answer: [
+          "Rulers of Sodom: pastors of 7GL.",
+          "Multitudes of sacrifice: services.",
+          "Rams and fattened animals: money, tithe.",
+          "Incense: detestable prayer."
+        ],
+        hint: "Rulers, sacrifices, rams, incense."
+      },
+      {
+        id: "i4-1-src-faithful-city",
+        type: "Verse-to-Concept",
+        difficulty: "Core",
+        tags: ["Faithful City", "Harlot", "Zion"],
+        prompt: "What happened to the faithful city?",
+        answer: [
+          "Faithful city = Judah and JR (7GL).",
+          "Harlot: prostitute who should have received seed only from God but received seed from foreigners.",
+          "Silver dross, wine mixed with water.",
+          "Harp means the Bible; now Zion became Babylon."
+        ],
+        hint: "Faithful city became harlot."
+      }
+    ],
+    "intermediate-lesson-4-2": [
+      {
+        id: "i4-2-src-isa1-summary",
+        type: "Key Info Drill",
+        difficulty: "Core",
+        tags: ["Isa 1", "Repentance", "Gentiles"],
+        prompt: "What is the summary of Isaiah 1:1-23?",
+        answer: [
+          "This chosen people called Judah and JR always betray God.",
+          "God himself is punishing them by using Gentiles to make them repent.",
+          "There were few people who kept themselves pure from destruction.",
+          "These remnant seed is important because they are the seed of recreation of the new kingdom."
+        ],
+        hint: "Betrayal, punishment, remnant seed."
+      },
+      {
+        id: "i4-2-src-plagues",
+        type: "Timeline Recall",
+        difficulty: "Core",
+        tags: ["Revelation", "Plagues", "Judgment"],
+        prompt: "What are the Revelation plagues and who receives them?",
+        answer: [
+          "Rev - 3 plagues: plague of seals, plague of trumpets, plague of bowls.",
+          "First two plagues happen to Judah and JR for 42 months.",
+          "Plague of bowls poured into destroyer for 7 years.",
+          "God is promising to avenge enemies: foreigners, strangers, destroyers."
+        ],
+        hint: "Seals, trumpets, bowls."
+      },
+      {
+        id: "i4-2-src-two-results",
+        type: "Comparison",
+        difficulty: "Core",
+        tags: ["Penitent", "Rebels", "Zion"],
+        prompt: "What are the two results in Isaiah 1?",
+        answer: [
+          "Penitent, repenting: called to Zion for redemption.",
+          "Sinful, rebels: broken and perish.",
+          "Jerusalem is place where God dwells = heaven.",
+          "There are 2 types of Jerusalem: one that betrayed and destroyed and one that gets recreated."
+        ],
+        hint: "Repenting and rebels."
+      },
+      {
+        id: "i4-2-src-isa2",
+        type: "Verse-to-Concept",
+        difficulty: "Core",
+        tags: ["Isa 2", "New Jerusalem", "Mountain"],
+        prompt: "What is the Jerusalem in Isaiah 2?",
+        answer: [
+          "In the last days the mountain of the Lord's temple will be established as chief among the mountains.",
+          "1st Judah and JR in Isa 1 has been betrayed and destroyed.",
+          "Judah and JR in Isa 2 is New Judah and JR: world that is being recreated, salvation.",
+          "House of God of Jacob = temple of OWO."
+        ],
+        hint: "Isa 1 and Isa 2."
+      },
+      {
+        id: "i4-2-src-two-works",
+        type: "Action Recall",
+        difficulty: "Core",
+        tags: ["World Peace", "Gospel"],
+        prompt: "What two works need to be done?",
+        answer: [
+          "We need to do 2 works.",
+          "Making world peace.",
+          "Delivering the gospel.",
+          "He = Lord that is working through OWO in this new Judah and JR."
+        ],
+        hint: "Two works."
+      }
+    ],
+    "intermediate-lesson-5": [
+      {
+        id: "i5-src-main-ref",
+        type: "Verse-to-Concept",
+        difficulty: "Core",
+        tags: ["Mt 23", "Mt 24", "End"],
+        prompt: "What are the main references and their realities?",
+        answer: [
+          "Main Ref - Mt 23, 24.",
+          "Mt 23 Woe chapter - Jesus speaking woe 7 times to Pharisees and teachers of the law.",
+          "Mt 23 (JTB/Jerusalem) End of Physical Israel.",
+          "Mt 24 (7GL) End of Spiritual Israel."
+        ],
+        hint: "Mt 23 and Mt 24."
+      },
+      {
+        id: "i5-src-questions",
+        type: "Key Info Drill",
+        difficulty: "Core",
+        tags: ["Disciples", "Questions", "End"],
+        prompt: "What three questions did the disciples ask?",
+        answer: [
+          "When will Jerusalem temple fall down?",
+          "What is sign of your coming, second coming?",
+          "What is the sign of end of age?"
+        ],
+        hint: "Temple, coming, end."
+      },
+      {
+        id: "i5-src-signs",
+        type: "Verse-to-Concept",
+        difficulty: "Core",
+        tags: ["Nation", "Famine", "Earthquake"],
+        prompt: "What are nation against nation, famine, earthquake, and birth pain?",
+        answer: [
+          "Spiritual meaning of nation = church.",
+          "2 churches will fight in Jerusalem temple: God's people 7GL and 7H + 10H.",
+          "Famine in Jerusalem temple because they lost the battle, so no more truth in Jerusalem temple.",
+          "Earthquake - hearts are quaking when we listen to something, words.",
+          "Birth pain = pain in heart to see congregation members getting killed and church getting destroyed."
+        ],
+        hint: "Church, truth, heart."
+      },
+      {
+        id: "i5-src-flee",
+        type: "Action Recall",
+        difficulty: "Core",
+        tags: ["Abomination", "Flee", "42 Months"],
+        prompt: "When can you flee, and what is the time?",
+        answer: [
+          "Only when you see abomination (7+10) standing on altar, can you flee.",
+          "1 time = 1 year, so 3.5 years, 42 months.",
+          "Roof: Heaven, place meeting the sky.",
+          "House: 7GL where 7+10 is, only lies; for us, previous church.",
+          "Cloak: while being harvested, they should not go to field to get cloak, duty."
+        ],
+        hint: "Abomination standing on altar."
+      },
+      {
+        id: "i5-src-distress",
+        type: "Timeline Recall",
+        difficulty: "Core",
+        tags: ["Great Distress", "7GL", "42 Months"],
+        prompt: "What is the great distress?",
+        answer: [
+          "Destruction of 1st Tabernacle is greatest distress since creation of the world.",
+          "80 branch churches turned into Satan's church in one day.",
+          "He shortened it to 42 months.",
+          "Winter: hardened heart.",
+          "Sabbath: rest from faith."
+        ],
+        hint: "1st Tabernacle."
+      },
+      {
+        id: "i5-src-sign-coming",
+        type: "Verse-to-Concept",
+        difficulty: "Core",
+        tags: ["Second Coming", "Sun Moon Stars", "Harvest"],
+        prompt: "What is the sign of the second coming and end of age?",
+        answer: [
+          "Sun, moon, star darken and fall down.",
+          "Pastor, evangelist, congregation members betray and get destroyed.",
+          "Jesus come with angels.",
+          "Blow trumpet, gather the elect through harvest."
+        ],
+        hint: "Sun, moon, stars."
+      },
+      {
+        id: "i5-src-servant",
+        type: "Key Info Drill",
+        difficulty: "Core",
+        tags: ["Faithful Servant", "Food", "Revelation"],
+        prompt: "What is the faithful and wise servant and food at the proper time?",
+        answer: [
+          "Faithful and wise servant = OWO.",
+          "Food at proper time = testifying chapters and contents in Bible, Revelation, that are proper in our time.",
+          "Bigger picture: wicked servants = pastors of Babylon.",
+          "KEEP WATCH!"
+        ],
+        hint: "Food at proper time."
+      }
+    ],
+    "intermediate-lesson-6": [
+      {
+        id: "i6-src-definition",
+        type: "Key Info Drill",
+        difficulty: "Core",
+        tags: ["Revelation", "Definition"],
+        prompt: "What is the definition of revelation?",
+        answer: [
+          "Main Ref - Isa 29, Hab 2, Eze 1-3.",
+          "What is definition of revelation? To open and show.",
+          "Heaven needs to be shown to you after opening sealed prophecy of God and heaven by parables.",
+          "Through one mouth, speak to everyone."
+        ],
+        hint: "Open and show."
+      },
+      {
+        id: "i6-src-types",
+        type: "Comparison",
+        difficulty: "Core",
+        tags: ["Types", "Revelation"],
+        prompt: "What are the types of revelation?",
+        answer: [
+          "Revelation of Old Testament: OT and its revelation testified through Jesus.",
+          "Revelation of New Testament: NT and its revelation testified through OWO.",
+          "Vision revelation: prophecy that God has shown.",
+          "Physical fulfillment revelation.",
+          "False revelation given from Satan."
+        ],
+        hint: "OT, NT, vision, fulfillment, false."
+      },
+      {
+        id: "i6-src-who-receives",
+        type: "Verse-to-Concept",
+        difficulty: "Core",
+        tags: ["Son", "OWO", "One Mouth"],
+        prompt: "Who receives and testifies true revelation?",
+        answer: [
+          "Hope of believer is eternal life by knowing true God.",
+          "Two options: be son or those who receive revelation from son.",
+          "F.C. Jesus (one mouth).",
+          "S.C. OWO becomes son of God (one mouth).",
+          "Listen to word from OWO who received true revelation."
+        ],
+        hint: "Son and one mouth."
+      },
+      {
+        id: "i6-src-isa29",
+        type: "Verse-to-Concept",
+        difficulty: "Core",
+        tags: ["Isa 29", "Sealed Scroll", "Pastors"],
+        prompt: "What does Isaiah 29 show?",
+        answer: [
+          "Eyes blind = pastors.",
+          "Scroll that they have is sealed so no way for people to understand.",
+          "Make own rules taught by men - hypocritical believer."
+        ],
+        hint: "Blind eyes, sealed scroll."
+      },
+      {
+        id: "i6-src-ezekiel",
+        type: "Timeline Recall",
+        difficulty: "Core",
+        tags: ["Ezekiel", "Open Scroll", "Watchman"],
+        prompt: "What duty did God give Ezekiel?",
+        answer: [
+          "Open your mouth and eat what I give you.",
+          "Lament about betrayal, woe about destruction written in open scroll.",
+          "God gave duty to Ezekiel to testify what he saw to house of Israel.",
+          "Whether they listen or fail to listen: just go and testify what God wants to tell them.",
+          "Son of man, I have made you a watchman for the house of Israel."
+        ],
+        hint: "Eat the scroll and testify."
+      },
+      {
+        id: "i6-src-rev-order",
+        type: "Verse-to-Concept",
+        difficulty: "Core",
+        tags: ["Rev 1:1", "Rev 5", "Servants"],
+        prompt: "What is the New Testament revelation order?",
+        answer: [
+          "Rev 5:1 - scroll with writing on both sides and sealed with seven seals.",
+          "When God had it, it was sealed, but Jesus opened it and gave it to angel so that servants can receive it through John.",
+          "Rev 1:1 The revelation of Jesus Christ, which God gave him to show his servants what must soon take place.",
+          "Conclusion of Revelation is SERVANTS."
+        ],
+        hint: "God, Jesus, angel, John, servants."
+      }
+    ],
+    "intermediate-lesson-7": [
+      {
+        id: "i7-src-pastors",
+        type: "Comparison",
+        difficulty: "Core",
+        tags: ["Pastor", "Types"],
+        prompt: "What are the four types of pastors?",
+        answer: [
+          "General Pastor - chosen by man.",
+          "Pastor of Prophecy - prophets: Isaiah, Jeremiah, Ezekiel, Daniel, chosen by God.",
+          "Promised Pastor - God promised pastor and in N.T. Jesus promised pastor.",
+          "False Pastor - sent by Satan."
+        ],
+        hint: "General, prophecy, promised, false."
+      },
+      {
+        id: "i7-src-when",
+        type: "Timeline Recall",
+        difficulty: "Core",
+        tags: ["Jer 1", "Gentiles", "Betrayal"],
+        prompt: "When and from where did God choose Jeremiah?",
+        answer: [
+          "Main Ref - Jer 1.",
+          "When chosen people become exiled by gentiles.",
+          "When betrayal and destruction is happening God chose person called Jeremiah.",
+          "From Judah and Jerusalem that became exiled by Babylon."
+        ],
+        hint: "Exiled by Gentiles."
+      },
+      {
+        id: "i7-src-formless",
+        type: "Verse-to-Concept",
+        difficulty: "Core",
+        tags: ["Formless", "Empty", "Many Waters"],
+        prompt: "What do formless, empty, and many waters mean?",
+        answer: [
+          "Before God chose pastor, earth was formless and empty; heaven was in darkness.",
+          "Earth is field = person's heart.",
+          "Formless = mixed, so two types of teaching came into people's hearts with Satan's teaching.",
+          "Spirits of God used to dwell in heart left them, so they became empty house.",
+          "Many waters entered and flooded heaven; reality of many waters was beast with 7+10."
+        ],
+        hint: "Heart, mixed teaching, 7+10."
+      },
+      {
+        id: "i7-src-duty",
+        type: "Key Info Drill",
+        difficulty: "Core",
+        tags: ["Duty", "Judgment", "Re-creation"],
+        prompt: "What duty is given to the promised pastor?",
+        answer: [
+          "Judgment and re-creation.",
+          "Judgment: uproot, tear down, destroy, overthrow.",
+          "Re-creation: build God's temple, plant seed of God in people's heart.",
+          "Promised pastor's word is God's word."
+        ],
+        hint: "Four judgment works, two re-creation works."
+      },
+      {
+        id: "i7-src-visions",
+        type: "Verse-to-Concept",
+        difficulty: "Core",
+        tags: ["Almond Tree", "Boiling Pot", "Fortified City"],
+        prompt: "What are the first and second visions?",
+        answer: [
+          "First vision all about betrayed tabernacle and from there, one of branch will be chosen as promised pastor.",
+          "Second vision about why chosen people get destroyed by boiling pot, destroyer: because of their betrayal.",
+          "Person who came out from almond tree and did not become one with boiling pot becomes fortified city, iron pillar, bronze wall."
+        ],
+        hint: "Almond tree and boiling pot."
+      }
+    ],
+    "intermediate-lesson-8": [
+      {
+        id: "i8-src-main",
+        type: "Key Info Drill",
+        difficulty: "Core",
+        tags: ["John 14-16", "Counselor"],
+        prompt: "What is the main reference and definition of Counselor?",
+        answer: [
+          "Main Ref - John 14-16.",
+          "Word Jesus spoke at last supper - promise of Jesus to his believer before he leaves.",
+          "TEACHER WHO PROTECTS WITH GRACE.",
+          "DEFENDER, COMFORTER, ADVOCATE - SPEAKS OF BEHALF."
+        ],
+        hint: "Teacher, defender, comforter, advocate."
+      },
+      {
+        id: "i8-src-types",
+        type: "Comparison",
+        difficulty: "Core",
+        tags: ["Counselor", "Spirit", "Flesh"],
+        prompt: "What are the counselors in First Coming and Second Coming?",
+        answer: [
+          "Counselor of F.C. = Jesus.",
+          "Counselor of S.C. = OWO.",
+          "Counselor of Spirit.",
+          "Counselor of Flesh.",
+          "Two counselors meet together in Rev 10, 19, 21."
+        ],
+        hint: "F.C., S.C., spirit, flesh."
+      },
+      {
+        id: "i8-src-teach-all",
+        type: "Verse-to-Concept",
+        difficulty: "Core",
+        tags: ["Teach All Things", "66 Books"],
+        prompt: "How do we know whether the Counselor is here?",
+        answer: [
+          "Counselor should teach ALL THINGS, 66 books of the Bible.",
+          "How do we know whether counselor is here or not? When counselor can teach us everything.",
+          "Jesus and Counselor are not the same person.",
+          "Word is now being testified plainly, so counselor is with OWO."
+        ],
+        hint: "All things."
+      },
+      {
+        id: "i8-src-convict",
+        type: "Key Info Drill",
+        difficulty: "Core",
+        tags: ["Sin", "Righteousness", "Judgment"],
+        prompt: "What does the Counselor convict about?",
+        answer: [
+          "SIN = NOT BELIEVING IN JESUS.",
+          "RIGHTEOUSNESS = NOT BEING ABLE TO SEE JESUS.",
+          "JUDGMENT = PRINCE OF THIS WORLD.",
+          "Counselor will speak everything = all truths."
+        ],
+        hint: "Sin, righteousness, judgment."
+      },
+      {
+        id: "i8-src-rev10",
+        type: "Verse-to-Concept",
+        difficulty: "Core",
+        tags: ["Rev 10", "Spirit of Truth", "John"],
+        prompt: "How does Revelation 10 show the Counselor?",
+        answer: [
+          "Angel in vs 1-2 is reality of counselor of spirit.",
+          "John in vs 8-11 is counselor of flesh.",
+          "By seeing work, listening to word that OWO has promised to do, we can know that spirit of truth has come."
+        ],
+        hint: "Angel and John."
+      }
+    ],
+    "intermediate-lesson-9": [
+      {
+        id: "i9-src-new-thing",
+        type: "Verse-to-Concept",
+        difficulty: "Core",
+        tags: ["Jer 31", "New Thing"],
+        prompt: "What is the new thing in Jeremiah 31?",
+        answer: [
+          "Main Ref - Jer 31.",
+          "NEW THING: CREATING GOD'S KINGDOM.",
+          "New thing: a woman will surround man.",
+          "Reality of man, women = child, virgin."
+        ],
+        hint: "Woman surrounding man."
+      },
+      {
+        id: "i9-src-two-seeds",
+        type: "Key Info Drill",
+        difficulty: "Core",
+        tags: ["Two Seeds", "Harvest"],
+        prompt: "What are the two seeds and the harvest?",
+        answer: [
+          "SOWING TWO TYPES OF SEEDS: SPIRITUAL SEED, GOD'S SEED AND SATAN'S SEED.",
+          "In Christianity, 2 seeds = seed of God: wheat, men; seed of Satan: weed, animal.",
+          "The harvest is the end of the age, and the harvesters are angels.",
+          "Angel will come with sharp sickle and harvest those born of seed of God."
+        ],
+        hint: "Wheat and weed."
+      },
+      {
+        id: "i9-src-covenant",
+        type: "Verse-to-Concept",
+        difficulty: "Core",
+        tags: ["New Covenant", "New Wine"],
+        prompt: "What is the new covenant and new wine?",
+        answer: [
+          "THE NEW COVENANT: covenant Jesus made with 12 disciples - synthesizing the N.T, that is Revelation.",
+          "New wine: word that Jesus will open and testify - revealed word of N.T.",
+          "Eating and drinking means we can listen.",
+          "Way to keep new covenant: revealed word of N.T. in our minds and hearts and our sins will be remembered no more."
+        ],
+        hint: "Revealed word of N.T."
+      },
+      {
+        id: "i9-src-qualifications",
+        type: "Key Info Drill",
+        difficulty: "Core",
+        tags: ["Qualifications", "12 Tribes"],
+        prompt: "What are the six qualifications?",
+        answer: [
+          "Born through the seed of God.",
+          "Be harvested.",
+          "Be sealed.",
+          "Belong to the 12 tribes.",
+          "Be recorded in the book of life.",
+          "Do not add or take away from the Revelation."
+        ],
+        hint: "Seed, harvest, seal, tribes, book, Revelation."
+      }
+    ],
+    "intermediate-lesson-10-prep": [
+      {
+        id: "i10p-src-valley",
+        type: "Comparison",
+        difficulty: "Core",
+        tags: ["Valley", "Dry Bones"],
+        prompt: "What is the reality of the valley?",
+        answer: [
+          "F.C. JTB tabernacle, where Pharisees advanced into.",
+          "S.C. 7GL, where 7+10 beast advanced into.",
+          "Eze 37: Valley of dry bones.",
+          "Eze 38: Gog and Magog.",
+          "Eze 39: Wedding Banquet."
+        ],
+        hint: "F.C. JTB, S.C. 7GL."
+      },
+      {
+        id: "i10p-src-breath",
+        type: "Verse-to-Concept",
+        difficulty: "Core",
+        tags: ["Breath", "Son of Man", "Dry Bones"],
+        prompt: "How are the dry bones brought back to life?",
+        answer: [
+          "God gives the breath, word of life, to the Son of Man.",
+          "Then to dry bones.",
+          "Bring them to Mountain of Salvation.",
+          "Only those who listen to the words of Jesus AND believe."
+        ],
+        hint: "Breath to Son of Man, then dry bones."
+      },
+      {
+        id: "i10p-src-gog",
+        type: "Comparison",
+        difficulty: "Core",
+        tags: ["Gog", "Magog", "7+10"],
+        prompt: "Who are Gog and Magog?",
+        answer: [
+          "Gog = Prince of gentiles.",
+          "Magog = People of gentiles.",
+          "F.C. Pharisees and teachers of the law.",
+          "S.C. Beast with 7 heads and 10 horns."
+        ],
+        hint: "Prince and people of gentiles."
+      },
+      {
+        id: "i10p-src-seven-years",
+        type: "Timeline Recall",
+        difficulty: "Core",
+        tags: ["7 Years", "Judgment", "Wedding Banquet"],
+        prompt: "What happens for 7 years before the wedding banquet?",
+        answer: [
+          "God will burn all weapons that Gog used as false teaching.",
+          "God will judge Gog and Magog for 7 years.",
+          "Rev 16 is the reality of 7 years of judgment.",
+          "Rev 17 is about how king of Babylon is being judged.",
+          "Rev 18 is about how kingdom of Babylon is being judged."
+        ],
+        hint: "Burn weapons, judge Gog and Magog."
+      },
+      {
+        id: "i10p-src-banquet",
+        type: "Key Info Drill",
+        difficulty: "Core",
+        tags: ["Wedding Banquet", "Mountain of Israel"],
+        prompt: "What is the wedding banquet Q&A?",
+        answer: [
+          "Who: animals and birds.",
+          "Where: Mountain of Israel.",
+          "When: after judging Gog and Magog for 7 years.",
+          "What: flesh of mighty men and blood of princes of earth.",
+          "Rev 15:8 no one can enter the wedding place until the smoke is gone."
+        ],
+        hint: "Who, where, when, what."
+      }
+    ],
+    "intermediate-lesson-10": [
+      {
+        id: "i10-src-main",
+        type: "Verse-to-Concept",
+        difficulty: "Core",
+        tags: ["Eze 37-39", "Dry Bones"],
+        prompt: "What is the main reference and dry bones meaning?",
+        answer: [
+          "Main Ref - Eze 37-39 (Mt 23, Jn 5).",
+          "Dry bones between valley - dead bodies are gathered, grave, because war between destroyer and betrayer mountain.",
+          "God give breath, breath/word of life, to Son of Man first then to dry bones.",
+          "Dry bones = spiritually dead people, Babylon church."
+        ],
+        hint: "Ezekiel 37-39."
+      },
+      {
+        id: "i10-src-fc-sc",
+        type: "Comparison",
+        difficulty: "Core",
+        tags: ["F.C.", "S.C.", "Valley"],
+        prompt: "What is the valley in F.C. and S.C.?",
+        answer: [
+          "F.C. reality of valley/battlefield: JTB tabernacle where Pharisees tried to advance into.",
+          "JTB that has been exiled became tomb-like place, grave.",
+          "S.C. reality of valley = Heaven where 2 mountains fought.",
+          "Through mouth of John, God deliver breath to PNLK: open scroll = breath = revealed word."
+        ],
+        hint: "JTB and 7GL."
+      },
+      {
+        id: "i10-src-gog-magog",
+        type: "Comparison",
+        difficulty: "Core",
+        tags: ["Gog", "Magog"],
+        prompt: "What is Gog and Magog in Lesson 10?",
+        answer: [
+          "Gog = Prince/king of gentiles.",
+          "Magog = People of gentiles.",
+          "Gathering of 7 gentile nations = 7 kings.",
+          "Reality of Gog and Magog in F.C. = Pharisees and teachers of the law.",
+          "Reality of Gog and Magog in S.C. = 7+10 beast."
+        ],
+        hint: "Gentile prince and people."
+      },
+      {
+        id: "i10-src-banquet",
+        type: "Key Info Drill",
+        difficulty: "Core",
+        tags: ["Wedding Banquet", "Rev 16-18"],
+        prompt: "What happens after judging Gog and Magog?",
+        answer: [
+          "God burn all weapons that Gog used as false teaching.",
+          "God is judging Gog and Magog for 7 years.",
+          "Who will be invited to wedding banquet? Animal and birds.",
+          "Where will it open? Mountain of Israel.",
+          "When will wedding banquet happen? After judging Gog and Magog for 7 years.",
+          "What will be ready? Flesh of mighty men and blood of princes of earth."
+        ],
+        hint: "Seven years, then banquet."
+      }
+    ],
+    "intermediate-lesson-11-1": [
+      {
+        id: "i11-1-src-types",
+        type: "Comparison",
+        difficulty: "Core",
+        tags: ["Resurrection", "Types"],
+        prompt: "What are the types of resurrection?",
+        answer: [
+          "Main Ref - 1 Cor 15.",
+          "Spiritual Resurrection - coming out from the church where there is no life to church with life, death to life.",
+          "F.C. Disciples, duty = sowing seed of God.",
+          "S.C. 12 tribes of SCJ, duty = harvesting.",
+          "Physical Resurrection - miracles, Lazarus, to make people to believe in Jesus by showing supernatural power.",
+          "First resurrection."
+        ],
+        hint: "Spiritual, physical, first."
+      },
+      {
+        id: "i11-1-src-john11",
+        type: "Verse-to-Concept",
+        difficulty: "Core",
+        tags: ["John 11", "Life"],
+        prompt: "What does John 11 teach about living?",
+        answer: [
+          "If anyone dies + believes = lives, believer who believed in Jesus in time of F.C.",
+          "If anyone lives + believes = lives, S.C. - never die but still survive by believing in Jesus.",
+          "At the resurrection people will neither marry nor be given in marriage; they will be like the angels in heaven."
+        ],
+        hint: "Dies and believes, lives and believes."
+      },
+      {
+        id: "i11-1-src-if-no",
+        type: "Key Info Drill",
+        difficulty: "Core",
+        tags: ["No Resurrection", "Faith"],
+        prompt: "If there is no resurrection, what follows?",
+        answer: [
+          "Then not even Christ has been raised.",
+          "Preaching is useless and so is your faith.",
+          "You are still in your sins.",
+          "Those also who have fallen asleep in Christ are lost."
+        ],
+        hint: "Preaching, faith, sins, lost."
+      },
+      {
+        id: "i11-1-src-order",
+        type: "Timeline Recall",
+        difficulty: "Core",
+        tags: ["Order", "Firstfruits", "Martyrs"],
+        prompt: "What is the order of resurrection?",
+        answer: [
+          "Jesus, firstfruits - example.",
+          "Those who belong to Jesus at the time of Second Coming.",
+          "MARTYRS.",
+          "SCJ.",
+          "Rest of the dead."
+        ],
+        hint: "Jesus first."
+      },
+      {
+        id: "i11-1-src-dying",
+        type: "Action Recall",
+        difficulty: "Core",
+        tags: ["Baptism", "Old Self"],
+        prompt: "What does dying mean in the lesson?",
+        answer: [
+          "Jesus died in flesh and he resurrected as spirit.",
+          "Baptism = crucification and living again.",
+          "Dying means killing their sinful nature, old self, circumcising their hearts everyday."
+        ],
+        hint: "Kill old self."
+      }
+    ],
+    "intermediate-lesson-11-2": [
+      {
+        id: "i11-2-src-order",
+        type: "Timeline Recall",
+        difficulty: "Core",
+        tags: ["Order", "Rest"],
+        prompt: "What is the order of resurrection in Lesson 11.2?",
+        answer: [
+          "Jesus.",
+          "Those who belong to Jesus when he comes, at the time of Second Coming.",
+          "Martyrs.",
+          "12 tribes of NSI, SCJ.",
+          "The rest, after 1,000 years."
+        ],
+        hint: "Jesus, martyrs, SCJ, rest."
+      },
+      {
+        id: "i11-2-src-shape",
+        type: "Comparison",
+        difficulty: "Core",
+        tags: ["Shape", "Resurrection"],
+        prompt: "What is the shape of resurrection?",
+        answer: [
+          "Perishable body -> Imperishable body.",
+          "Dishonor -> Glory.",
+          "Weakness -> Power.",
+          "Natural body -> Spiritual body.",
+          "Earthly image -> heavenly image.",
+          "Shape of Resurrection of those who are physically dead: will not resurrect in their own physical body but in spirit."
+        ],
+        hint: "Perishable to imperishable."
+      },
+      {
+        id: "i11-2-src-last-trumpet",
+        type: "Verse-to-Concept",
+        difficulty: "Core",
+        tags: ["Last Trumpet", "OWO", "Rev 11"],
+        prompt: "What happens at the last trumpet?",
+        answer: [
+          "We will not all sleep, but we will all be changed.",
+          "In a flash, in the twinkling of an eye, at the last trumpet.",
+          "Death has been swallowed by life - eternal life when 7th trumpet blows.",
+          "OWO = male child = 7th trumpet.",
+          "We have to be changed by 7th trumpet."
+        ],
+        hint: "7th trumpet."
+      },
+      {
+        id: "i11-2-src-gained",
+        type: "Key Info Drill",
+        difficulty: "Core",
+        tags: ["First Resurrection", "Eternal Life"],
+        prompt: "What two things are gained by first resurrection?",
+        answer: [
+          "2 THINGS GAINED BY FIRST RESURRECTION: ETERNAL LIFE AND RESURRECTION.",
+          "Restoring to original image: heavenly body and earthly body together.",
+          "Once the flesh is clothed in heavenly body, they will not die.",
+          "We need to have the mindset of living martyrs."
+        ],
+        hint: "Eternal life and resurrection."
+      }
+    ],
+    "intermediate-lesson-12": [
+      {
+        id: "i12-src-main",
+        type: "Key Info Drill",
+        difficulty: "Core",
+        tags: ["Daniel", "Mini Revelation"],
+        prompt: "How does the lesson introduce Daniel?",
+        answer: [
+          "Main Ref - Dn 1 - 4.",
+          "Book of Daniel can only be understood at the time of the end.",
+          "Mini Revelation - We can understand book of Daniel during fulfillment times of Revelation."
+        ],
+        hint: "Time of the end."
+      },
+      {
+        id: "i12-src-daniel1",
+        type: "Timeline Recall",
+        difficulty: "Core",
+        tags: ["Daniel 1", "Testing"],
+        prompt: "What is Daniel 1 about?",
+        answer: [
+          "DANIEL 1: FROM WHEN AND WHERE DOES GOD CHOOSE HIS PASTOR?",
+          "When chosen people are besieged by Babylon and chooses pastor from Jerusalem.",
+          "Daniel and his 3 friends do not want to defile themselves.",
+          "Daniel: physical testing. Our time: spiritual testing about faith.",
+          "Daniel: overcame test and kept faith. Our time: lose test and belong to Satan."
+        ],
+        hint: "Besieged by Babylon."
+      },
+      {
+        id: "i12-src-daniel2",
+        type: "Verse-to-Concept",
+        difficulty: "Core",
+        tags: ["Daniel 2", "Statue", "Stone"],
+        prompt: "What is Daniel 2 about?",
+        answer: [
+          "DANIEL 2: WHEN IS GOD'S KINGDOM ESTABLISHED?",
+          "After destroying statue by white stone.",
+          "Head, chest, arms, belly, thighs, legs, feet - statue formed by 7 different spiritual nations.",
+          "Feet: 2 kinds - part iron, part baked clay.",
+          "Stone will strike feet where 2 different nations are working together but not mixing well."
+        ],
+        hint: "Statue and white stone."
+      },
+      {
+        id: "i12-src-sc-statue",
+        type: "Comparison",
+        difficulty: "Core",
+        tags: ["Rev 17", "7 Heads", "10 Horns"],
+        prompt: "What is the Second Coming reality of the statue?",
+        answer: [
+          "Great Prostitute is one of the head of 7+10 but she was the HEAD of those 7 heads.",
+          "7 Heads is actually kings.",
+          "The ten horns are ten kings.",
+          "They used to work together as 1 statue but later, beast with 10 horns kill prostitute.",
+          "The one who overcomes will receive white stone; since he holds white stone, he himself becomes white stone and judge statue."
+        ],
+        hint: "7 heads and 10 horns."
+      },
+      {
+        id: "i12-src-daniel4",
+        type: "Verse-to-Concept",
+        difficulty: "Core",
+        tags: ["Daniel 4", "Tree", "7 Years"],
+        prompt: "What is Daniel 4 about?",
+        answer: [
+          "MYSTERY OF TREE OF KNOWLEDGE OF GOOD AND EVIL AND ITS END.",
+          "Tree in middle, like tree of knowledge of good and evil in middle of Garden of Eden.",
+          "Messenger coming down from heaven cut down tree for years, 7 times.",
+          "S.C. Tree in middle of land: 7+10 taking over altar of 7GL.",
+          "OWO came from SCJ to judge and reveal reality to whole world and cut down tree for 7 years THEN wedding banquet will open."
+        ],
+        hint: "Tree cut down for 7 years."
+      }
+    ],
+    "intermediate-lesson-13": [
+      {
+        id: "i13-src-main",
+        type: "Timeline Recall",
+        difficulty: "Core",
+        tags: ["Zechariah", "Salvation"],
+        prompt: "Where does Zechariah fit in the order?",
+        answer: [
+          "Main Ref - Zech 1-2.",
+          "OT periods: Betrayal - Isaiah, Jeremiah; Destruction period - Ezekiel, Daniel; Salvation - Zechariah, Malachi.",
+          "Zechariah is book that is prophesying after 42 months.",
+          "At the point of establishment of SCJ and God's people being reunited with God."
+        ],
+        hint: "After 42 months."
+      },
+      {
+        id: "i13-src-zion-babylon",
+        type: "Verse-to-Concept",
+        difficulty: "Core",
+        tags: ["Zion", "Babylon"],
+        prompt: "What are Zion and Babylon?",
+        answer: [
+          "Zech 2:7 Come, O Zion! Escape, you who live in the Daughter of Babylon!",
+          "Zion means person that belong to God.",
+          "Zion can also become organization of God's people, gathering.",
+          "Babylon can become organization that belongs to Satan."
+        ],
+        hint: "Person or organization."
+      },
+      {
+        id: "i13-src-return",
+        type: "Timeline Recall",
+        difficulty: "Core",
+        tags: ["Return", "42 Months"],
+        prompt: "When can Zion return from Babylon?",
+        answer: [
+          "Return to me and I will return to you.",
+          "Do not be like forefathers.",
+          "When can Zion return from Babylon? After destruction, when God's kingdom can be established.",
+          "In O.T, after 70 years, rebuilt Jerusalem.",
+          "In our time, after 42 months, returning people from Babylon."
+        ],
+        hint: "After destruction."
+      },
+      {
+        id: "i13-src-measuring",
+        type: "Verse-to-Concept",
+        difficulty: "Core",
+        tags: ["Measuring Line", "Open Scroll"],
+        prompt: "What does measuring mean?",
+        answer: [
+          "I will return to Jerusalem with mercy, and there my house will be rebuilt.",
+          "Measuring in Bible means EDUCATE people's hearts through open scroll so they can be built in the image of heaven.",
+          "Measure line: open scroll.",
+          "Young man = male child is the only one who knows how to rebuild God's temple."
+        ],
+        hint: "Measure line."
+      },
+      {
+        id: "i13-src-materials",
+        type: "Action Recall",
+        difficulty: "Core",
+        tags: ["Materials", "New Temple"],
+        prompt: "Who are the materials to rebuild God's kingdom?",
+        answer: [
+          "Those who have came out from Babylon, they themselves now become materials to build this house.",
+          "We are those materials to rebuild eternal God's kingdom.",
+          "Many nations will be joined with the Lord in that day and will become my people.",
+          "Ten men from all language and nations will take firm hold of one Jew."
+        ],
+        hint: "Those who came out from Babylon."
+      }
+    ],
+    "intermediate-lesson-14": [
+      {
+        id: "i14-src-main",
+        type: "Key Info Drill",
+        difficulty: "Core",
+        tags: ["Mt 5-7", "Moral Teachings"],
+        prompt: "What is the main reference and why moral teaching first?",
+        answer: [
+          "Main Ref - Mt 5-7.",
+          "Taught moral teachings first.",
+          "One should become proper human first then receive heaven's teachings.",
+          "Way that we are glorifying God is not just through the word, but through our actions."
+        ],
+        hint: "Proper human first."
+      },
+      {
+        id: "i14-src-beatitudes",
+        type: "Key Info Drill",
+        difficulty: "Core",
+        tags: ["Beatitudes"],
+        prompt: "What are the Beatitudes listed in the lesson?",
+        answer: [
+          "BLESSED ARE POOR IN SPIRIT.",
+          "BLESSED ARE THOSE WHO MOURN.",
+          "BLESSED ARE THE MEEK.",
+          "BLESSED ARE THOSE WHO HUNGER AND THIRST FOR RIGHTEOUSNESS.",
+          "BLESSED ARE THE MERCIFUL.",
+          "BLESSED ARE THE PURE IN HEART.",
+          "BLESSED ARE THE PEACEMAKERS.",
+          "BLESSED ARE THOSE WHO ARE PERSECUTED."
+        ],
+        hint: "Poor, mourn, meek, hunger, merciful, pure, peacemakers, persecuted."
+      },
+      {
+        id: "i14-src-law-actions",
+        type: "Action Recall",
+        difficulty: "Core",
+        tags: ["Salt", "Light", "Righteousness"],
+        prompt: "What does Lesson 14 say about actions and righteousness?",
+        answer: [
+          "We should become salt like person and light like person.",
+          "Our bad actions could block that path for another person to go to heaven.",
+          "If your righteousness does not surpass that of the Pharisees, you cannot enter kingdom of heaven.",
+          "Way to love God is keeping his commands.",
+          "Simply let your Yes be Yes, and your No, No."
+        ],
+        hint: "Salt, light, righteousness."
+      },
+      {
+        id: "i14-src-prayer",
+        type: "Verse-to-Concept",
+        difficulty: "Core",
+        tags: ["Lord's Prayer", "Revelation"],
+        prompt: "How does the lesson explain prayer and the Lord's Prayer?",
+        answer: [
+          "When you pray, go into your room, close the door and pray to your Father.",
+          "Lord's Prayer is summary of Revelation.",
+          "Prayer means asking something we do not have now but for the future.",
+          "Prayer is prophecy, promise."
+        ],
+        hint: "Summary of Revelation."
+      },
+      {
+        id: "i14-src-lords-prayer",
+        type: "Key Info Drill",
+        difficulty: "Core",
+        tags: ["Father", "Kingdom", "Daily Bread"],
+        prompt: "What source meanings are given for the Lord's Prayer?",
+        answer: [
+          "Our Father: God.",
+          "In order for you to call someone as father, you should have seed, word of God.",
+          "Your kingdom come: Rv 3:12 God, Holy City New Jerusalem/Heaven, Jesus all come to OWO.",
+          "Your will be done: creation of heaven on earth so He can live with his creation forever.",
+          "Today means fulfillment day of prophecy.",
+          "Daily bread = Hidden Manna."
+        ],
+        hint: "Father, kingdom, will, bread."
+      }
+    ],
+    "intermediate-lesson-15": [
+      {
+        id: "i15-src-main",
+        type: "Key Info Drill",
+        difficulty: "Core",
+        tags: ["Mt 25", "Mt 22", "Rv 19"],
+        prompt: "What is the main reference and main point?",
+        answer: [
+          "Main Ref: Mt 25, Mt 22, Rv 19.",
+          "Bible is saying not everyone can meet Jesus when he comes back.",
+          "Mt 25 - 3 parables about those who can be saved."
+        ],
+        hint: "Not everyone can meet Jesus."
+      },
+      {
+        id: "i15-src-virgins",
+        type: "Verse-to-Concept",
+        difficulty: "Core",
+        tags: ["Ten Virgins", "Lamp", "Oil"],
+        prompt: "What is the parable of the ten virgins?",
+        answer: [
+          "At that time = At the fulfillment times of Mt 24, Revelation.",
+          "LAMP = BIBLE (Psa 119:105).",
+          "OLIVE OIL = WORD OF TESTIMONY coming from OLIVE TREE = WITNESSES.",
+          "Where can you fill/buy oil? At center.",
+          "1ST QUALIFICATION: FILL THE OIL."
+        ],
+        hint: "Lamp and oil."
+      },
+      {
+        id: "i15-src-talents",
+        type: "Action Recall",
+        difficulty: "Core",
+        tags: ["Talents", "Evangelize"],
+        prompt: "What is the parable of the talents?",
+        answer: [
+          "Talents of gold is all about evangelizing with word we received from God.",
+          "Being afraid of persecution so not working.",
+          "1 talent man: wicked, lazy servant.",
+          "2ND QUALIFICATION: EVANGELIZE, earn more talents."
+        ],
+        hint: "Earn more talents."
+      },
+      {
+        id: "i15-src-sheep",
+        type: "Action Recall",
+        difficulty: "Core",
+        tags: ["Sheep", "Goats", "Least"],
+        prompt: "What is the sheep and goats parable?",
+        answer: [
+          "Sheep is stupid but obedient.",
+          "Goats are stubborn and disobedient.",
+          "3rd QUALIFICATION: BE SHEEP-LIKE BELIEVER, look after one another.",
+          "Least of these = congregation.",
+          "How you treat person next to you in SCJ is how you treat Jesus."
+        ],
+        hint: "Sheep-like believer."
+      },
+      {
+        id: "i15-src-wedding",
+        type: "Key Info Drill",
+        difficulty: "Core",
+        tags: ["Wedding Clothes", "Qualifications"],
+        prompt: "What is the wedding banquet qualification?",
+        answer: [
+          "4th QUALIFICATION: WEAR WEDDING CLOTHES!",
+          "Tie him hand and foot = take away duty.",
+          "Throw him outside of SCJ.",
+          "MUST KEEP EVERY QUALIFICATION!!"
+        ],
+        hint: "Wedding clothes."
+      }
+    ],
+    "intermediate-lesson-16": [
+      {
+        id: "i16-src-definition",
+        type: "Key Info Drill",
+        difficulty: "Core",
+        tags: ["Jude 1", "Betrayal"],
+        prompt: "What is the definition of betrayal?",
+        answer: [
+          "Main Ref - Jude 1 (2 Pt 2; Mt 12:43-45).",
+          "DEFINITION OF BETRAYAL.",
+          "Turning one's back.",
+          "Path = word, teachings, God.",
+          "Turning one's back on God's word, God, God's kingdom and people.",
+          "People who get further from God and his word is beginning of betrayer."
+        ],
+        hint: "Turning one's back."
+      },
+      {
+        id: "i16-src-types",
+        type: "Comparison",
+        difficulty: "Core",
+        tags: ["Types", "Spirit", "Flesh"],
+        prompt: "What are the types of betrayal?",
+        answer: [
+          "BETRAYAL OF THE SPIRIT, in spiritual realm.",
+          "Reason why they betrayed was because of ARROGANCE.",
+          "BETRAYAL OF THE FLESH.",
+          "Betrayal of the kingdom.",
+          "Betrayal of the individual."
+        ],
+        hint: "Spirit, flesh, kingdom, individual."
+      },
+      {
+        id: "i16-src-matt12",
+        type: "Verse-to-Concept",
+        difficulty: "Core",
+        tags: ["Mt 12", "Arid Place"],
+        prompt: "What does Matthew 12 show about betrayal?",
+        answer: [
+          "Satan looks for ignorant people: arid place, dry, no word.",
+          "If you show him a little chance, a little crack in your heart, it will return.",
+          "Why is it unoccupied? Holy spirit left because relationship with flesh did not match/get along."
+        ],
+        hint: "Dry, no word."
+      },
+      {
+        id: "i16-src-jude",
+        type: "Key Info Drill",
+        difficulty: "Core",
+        tags: ["Jude", "Cain", "Balaam", "Korah"],
+        prompt: "What characteristics does Jude give?",
+        answer: [
+          "Godless men: there are people who came into God's kingdom secretly.",
+          "People of betrayers known as Cain, Balaam, and Korah.",
+          "Characteristics: Grumblers, Faultfinders, Evil desires, Boast, Flatter."
+        ],
+        hint: "Cain, Balaam, Korah."
+      },
+      {
+        id: "i16-src-steps",
+        type: "Timeline Recall",
+        difficulty: "Core",
+        tags: ["Steps", "Betrayal"],
+        prompt: "What are the steps of betrayal?",
+        answer: [
+          "Ignorance.",
+          "Distrust.",
+          "Deception.",
+          "Betrayal."
+        ],
+        hint: "Four steps."
+      },
+      {
+        id: "i16-src-prevention",
+        type: "Action Recall",
+        difficulty: "Core",
+        tags: ["Knowledge", "Armor", "Faith"],
+        prompt: "How can betrayal be prevented?",
+        answer: [
+          "Most important thing: knowledge.",
+          "If you do not know Bible, then you will be deceived.",
+          "We always need to be fully armored with God's word.",
+          "What keeps us from betraying is perfect understanding/perception of word which brings perfect faith."
+        ],
+        hint: "Knowledge and perfect understanding."
+      }
+    ]
+  };
+
+  for (const [lessonId, cards] of Object.entries(sourceLanguageOverrides)) {
+    const lesson = window.SIMC_LESSONS.find((item) => item.id === lessonId);
+    if (lesson) lesson.cards = cards;
+  }
+
   const catalogLessons = [
     ["intro-lesson-17-1", "Intro", "Lesson 17.1: Figurative Stone"],
     ["intro-lesson-16-1", "Intro", "Lesson 16.1: Figurative Seal"],
